@@ -1,0 +1,8 @@
+.DS_Store
+_img_vars.py
+_img_vars2.py
+dashboard_data.js
+dashboard_data.json
+chartjs.min.js
+chartjs-datalabels.min.js
+themes/
